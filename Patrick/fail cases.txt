@@ -1,0 +1,14 @@
+https://github.com/onivim/oni
+https://github.com/jessesquires/JSQMessagesViewController
+https://github.com/rkt/rkt
+https://github.com/slackhq/SlackTextViewController
+https://github.com/facebookarchive/caffe2
+https://github.com/roughike/BottomBar
+https://github.com/almende/vis
+https://github.com/facebookarchive/nuclide
+https://github.com/filebrowser/filebrowser
+https://github.com/nhaarman/ListViewAnimations
+https://github.com/MoOx/postcss-cssnext
+https://github.com/googlearchive/code-prettify
+https://github.com/EmpireProject/Empire
+https://github.com/google/gxui
