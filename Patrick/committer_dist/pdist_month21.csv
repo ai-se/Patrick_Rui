@@ -1,0 +1,109 @@
+Tomasz Bursztyka <tomasz.bursztyka@linux.intel.com>,148
+Kumar Gala <kumar.gala@linaro.org>,123
+Ulf Magnusson <Ulf.Magnusson@nordicsemi.no>,102
+Jukka Rissanen <jukka.rissanen@linux.intel.com>,91
+Anas Nashif <anas.nashif@intel.com>,86
+Ioannis Glaropoulos <Ioannis.Glaropoulos@nordicsemi.no>,68
+Erwan Gouriou <erwan.gouriou@linaro.org>,49
+Andrei Emeltchenko <andrei.emeltchenko@intel.com>,48
+Andy Ross <andrew.j.ross@intel.com>,47
+Andrew Boie <andrew.p.boie@intel.com>,46
+Maureen Helm <maureen.helm@nxp.com>,33
+Michael Scott <mike@foundries.io>,31
+Krzysztof Chruscinski <krzysztof.chruscinski@nordicsemi.no>,30
+Aurelien Jarno <aurelien@aurel32.net>,29
+Paul Sokolovsky <paul.sokolovsky@linaro.org>,25
+Sathish Kuttan <sathish.k.kuttan@intel.com>,25
+Piotr Zięcik <piotr.ziecik@nordicsemi.no>,21
+Sebastian Bøe <sebastian.boe@nordicsemi.no>,20
+Peter A. Bigot <pab@pabigot.com>,20
+Daniel Leung <daniel.leung@intel.com>,18
+Alexander Wachter <alexander.wachter@student.tugraz.at>,17
+Carles Cufi <carles.cufi@nordicsemi.no>,16
+Vinayak Kariappa Chettimada <vich@nordicsemi.no>,15
+Carlos Stuart <carlosstuart1970@gmail.com>,15
+Robert Lubos <robert.lubos@nordicsemi.no>,14
+Ravi kumar Veeramally <ravikumar.veeramally@linux.intel.com>,13
+Andrzej Głąbek <andrzej.glabek@nordicsemi.no>,13
+Alberto Escolar Piedras <alpi@oticon.com>,13
+Piotr Mienkowski <piotr.mienkowski@gmail.com>,12
+Mark Ruvald Pedersen <mped@oticon.com>,12
+Luiz Augusto von Dentz <luiz.von.dentz@intel.com>,12
+Johann Fischer <j.fischer@phytec.de>,11
+Nathaniel Graff <nathaniel.graff@sifive.com>,10
+Marti Bolivar <marti@foundries.io>,10
+Andrzej Puzdrowski <andrzej.puzdrowski@nordicsemi.no>,10
+Savinay Dharmappa <savinay.dharmappa@intel.com>,10
+David B. Kinder <david.b.kinder@intel.com>,9
+Tomasz Gorochowik <tgorochowik@antmicro.com>,9
+Marc Herbert <marc.herbert@intel.com>,8
+Andy Gross <andy.gross@linaro.org>,7
+Jakub Rzeszutko <jakub.rzeszutko@nordicsemi.no>,7
+Armando Visconti <armando.visconti@st.com>,7
+Adithya Baglody <adithya.nagaraj.baglody@intel.com>,5
+Andrei Gansari <andrei.gansari@nxp.com>,5
+Stanislav Poboril <stanislav.poboril@nxp.com>,5
+Wolfgang Puffitsch <wopu@oticon.com>,5
+Findlay Feng <i@fengch.me>,5
+Emanuele Di Santo <emdi@nordicsemi.no>,5
+Filip Kubicz <filip.kubicz@nordicsemi.no>,4
+Paweł Zadrożniak <pawel.zadrozniak@nordicsemi.no>,4
+Ryan Erickson <ryan.erickson@lairdtech.com>,4
+Takumi Ando <takumi.ando@atmark-techno.com>,4
+Francisco Munoz <francisco.munoz.ruiz@intel.com>,4
+qianfan Zhao <qianfanguijin@163.com>,3
+Johan Hedberg <johan.hedberg@intel.com>,3
+Daniel Glöckner <dg@emlix.com>,3
+Kwon Tae-young <tykwon@m2i.co.kr>,3
+François Delawarde <fnde@oticon.com>,3
+Rajavardhan Gundi <rajavardhan.gundi@intel.com>,3
+Krzysztof Chruściński <krzysztof.chruscinski@nordicsemi.no>,2
+Ole Sæther <ole.saether@nordicsemi.no>,2
+Loic Poulain <loic.poulain@linaro.org>,2
+Wayne Ren <wei.ren@synopsys.com>,2
+Marc Pignat <marc@absintheaudio.com>,2
+Charles E. Youse <charles.youse@intel.com>,2
+Jan Van Winkel <jan.van_winkel@dxplore.eu>,2
+Himanshu Jha <himanshujha199640@gmail.com>,2
+david leach <david.leach@nxp.com>,2
+Klaus Petersen <kape@oticon.com>,2
+Laczen JMS <laczenjms@gmail.com>,2
+Pawel Dunaj <pawel.dunaj@nordicsemi.no>,2
+Flavio Ceolin <flavio.ceolin@intel.com>,2
+Song Qiang <songqiang1304521@gmail.com>,2
+Gil Pitney <gil.pitney@linaro.org>,2
+Erwin Rol <erwin@erwinrol.com>,2
+Spoorthi K <spoorthi.k@intel.com>,2
+Maksim Masalski <maxxliferobot@gmail.com>,1
+Bobby Noelte <b0661n0e17e@gmail.com>,1
+Ruth Fuchss <ruth.fuchss@nordicsemi.no>,1
+Benoit Leforestier <benoit.leforestier@gmail.com>,1
+Nicolas LANTZ <nicolas.lantz@ubicore.net>,1
+Dominik Rekawek <dominik@itetech.pl>,1
+Timon Baetz <timon.baetz@gmail.com>,1
+Tom Burdick <thomas.burdick@gmail.com>,1
+Cinly Ooi <cinly.ooi@intel.com>,1
+Piotr Zierhoffer <pzierhoffer@antmicro.com>,1
+Vincent Wan <vincent.wan@linaro.org>,1
+Tavish Naruka <tavishnaruka@gmail.com>,1
+Kamil Piszczek <Kamil.Piszczek@nordicsemi.no>,1
+Bub Wei <bub.wei@unisoc.com>,1
+Keguang Zhang <keguang.zhang@unisoc.com>,1
+Torsten Rasmussen <torsten.rasmussen@nordicsemi.no>,1
+Nicholas Lowell <nlowell@lexmark.com>,1
+Ivan kyb Kuvaldin <i.kyb@ya.ru>,1
+David Brown <david.brown@linaro.org>,1
+Vikas Manocha <vikas.manocha@st.com>,1
+Mieszko Mierunski <mieszko.mierunski@nordicsemi.no>,1
+Ramakrishna Pallala <ramakrishna.pallala@intel.com>,1
+Uri Shaked <uri@urishaked.com>,1
+Vikrant More <vikrant8051@gmail.com>,1
+Ruud Derwig <Ruud.Derwig@synopsys.com>,1
+Michael Hope <mlhx@google.com>,1
+Henrik Brix Andersen <henrik@brixandersen.dk>,1
+Andrei Laperie <andrei.laperie@intel.com>,1
+Yannis Damigos <giannis.damigos@gmail.com>,1
+Tavish Naruka <docuser@docs.electronut.in>,1
+Jan Van Winkel <vanwinkeljan@gmail.com>,1
+Tim Sørensen (TIMS) <tims@oticon.com>,1
+Alexander Svensen <alsv@nordicsemi.no>,1

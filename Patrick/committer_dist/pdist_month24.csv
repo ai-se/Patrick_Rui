@@ -1,0 +1,121 @@
+Andrei Emeltchenko <andrei.emeltchenko@intel.com>,40
+Ioannis Glaropoulos <Ioannis.Glaropoulos@nordicsemi.no>,35
+Brett Witherspoon <spoonb@cdspooner.com>,30
+Anas Nashif <anas.nashif@intel.com>,29
+Michael Scott <mike@foundries.io>,23
+Vinayak Kariappa Chettimada <vich@nordicsemi.no>,23
+Charles E. Youse <charles.youse@intel.com>,22
+Derek Hageman <hageman@inthat.cloud>,22
+Henrik Brix Andersen <hebad@vestas.com>,21
+Marti Bolivar <marti.bolivar@nordicsemi.no>,21
+Jukka Rissanen <jukka.rissanen@linux.intel.com>,21
+Paul Sokolovsky <paul.sokolovsky@linaro.org>,20
+Luiz Augusto von Dentz <luiz.von.dentz@intel.com>,20
+Ulf Magnusson <Ulf.Magnusson@nordicsemi.no>,20
+Tomasz Bursztyka <tomasz.bursztyka@linux.intel.com>,19
+Andrew Boie <andrew.p.boie@intel.com>,19
+Mark Ruvald Pedersen <mped@oticon.com>,16
+Krzysztof Chruscinski <krzysztof.chruscinski@nordicsemi.no>,16
+Carles Cufi <carles.cufi@nordicsemi.no>,16
+Kamil Piszczek <Kamil.Piszczek@nordicsemi.no>,15
+Øyvind Rønningstad <oyvind.ronningstad@nordicsemi.no>,13
+Antony Pavlov <antonynpavlov@gmail.com>,13
+Maureen Helm <maureen.helm@nxp.com>,13
+Bradley Bolen <bbolen@lexmark.com>,11
+Filip Kokosinski <fkokosinski@internships.antmicro.com>,11
+Kumar Gala <kumar.gala@linaro.org>,11
+Erwan Gouriou <erwan.gouriou@linaro.org>,11
+Alexander Wachter <alexander.wachter@student.tugraz.at>,10
+Aurelien Jarno <aurelien@aurel32.net>,9
+Robert Lubos <robert.lubos@nordicsemi.no>,9
+Wentong Wu <wentong.wu@intel.com>,9
+Nathaniel Graff <nathaniel.graff@sifive.com>,8
+Peter A. Bigot <pab@pabigot.com>,8
+Bernard Lee <bernard.lee@nordicsemi.no>,8
+Alexander Svensen <alsv@nordicsemi.no>,8
+Joakim Andersson <joakim.andersson@nordicsemi.no>,8
+Jun Li <jun.r.li@intel.com>,7
+Marc Herbert <marc.herbert@intel.com>,7
+Henrik Brix Andersen <henrik@brixandersen.dk>,7
+Francisco Munoz <francisco.munoz.ruiz@intel.com>,7
+Marcin Szymczyk <Marcin.Szymczyk@nordicsemi.no>,7
+Vikrant More <vikrant8051@gmail.com>,6
+Danny Oerndrup <daor@demant.com>,6
+Ryan QIAN <jianghao.qian@nxp.com>,6
+Jan Van Winkel <jan.van_winkel@dxplore.eu>,6
+Jose Alberto Meza <jose.a.meza.arellano@intel.com>,6
+Mark Wang <yichang.wang@nxp.com>,6
+Benoit Leforestier <benoit.leforestier@gmail.com>,6
+Song Qiang <songqiang1304521@gmail.com>,5
+Aaron Tsui <aaron.tsui@outlook.com>,5
+Jakob Olesen <jolesen@fb.com>,5
+Nicolas Pitre <npitre@baylibre.com>,5
+Johann Fischer <j.fischer@phytec.de>,5
+Bosch Sensortec <github@bosch-sensortec.com>,4
+Jakub Rzeszutko <jakub.rzeszutko@nordicsemi.no>,4
+Benjamin Valentin <benjamin.valentin@ml-pa.com>,4
+Thomas Ebert Hansen <thoh@oticon.com>,4
+Sebastian Bøe <sebastian.boe@nordicsemi.no>,4
+Radoslaw Koppel <radoslaw.koppel@nordicsemi.no>,4
+Johan Hedberg <johan.hedberg@intel.com>,4
+Andrzej Puzdrowski <andrzej.puzdrowski@nordicsemi.no>,4
+Asger Munk Nielsen <asmk@oticon.com>,4
+Piotr Zięcik <piotr.ziecik@nordicsemi.no>,4
+Matthew Koch <koch.matthew@gmail.com>,4
+Mateusz Holenko <mholenko@antmicro.com>,4
+Andrzej Głąbek <andrzej.glabek@nordicsemi.no>,4
+Sathish Kuttan <sathish.k.kuttan@intel.com>,3
+David B. Kinder <david.b.kinder@intel.com>,3
+Yaël Boutreux <yael.boutreux@st.com>,3
+Maksim Masalski <maxxliferobot@gmail.com>,3
+Dennis Wildmark <dennis.wildmark@assaabloy.com>,2
+Joao Cordeiro <jvcc@cesar.org.br>,2
+Charles Youse <charles.youse@intel.com>,2
+Armando Visconti <armando.visconti@st.com>,2
+Jacob Siverskog <jacob@teenage.engineering>,2
+Mariusz Skamra <mariusz.skamra@codecoup.pl>,2
+Sören Tempel <soeren+git@soeren-tempel.net>,2
+Peter Herager <pehe@oticon.com>,2
+Mieszko Mierunski <mieszko.mierunski@nordicsemi.no>,2
+Pawel Dunaj <pawel.dunaj@nordicsemi.no>,2
+Andy Doan <andy@foundries.io>,2
+François Delawarde <fnde@oticon.com>,2
+Karl Zhang <karl.zhang@linaro.org>,2
+Alberto Escolar Piedras <alpi@oticon.com>,2
+Morten Priess <mtpr@oticon.com>,2
+Flavio Ceolin <flavio.ceolin@intel.com>,2
+Andrew Fernandes <andrew@fernandes.org>,2
+Tavish Naruka <tavishnaruka@gmail.com>,2
+Yannis Damigos <giannis.damigos@gmail.com>,2
+Pushpal Sidhu <psidhu.devel@gmail.com>,2
+Piotr Mienkowski <piotr.mienkowski@gmail.com>,2
+Louis Dupont <dupont.louis@ireq.ca>,1
+Andy Ross <andrew.j.ross@intel.com>,1
+Sigvart M. Hovland <sigvart.hovland@nordicsemi.no>,1
+Marek Pieta <Marek.Pieta@nordicsemi.no>,1
+Tomasz Gorochowik <tgorochowik@antmicro.com>,1
+Stefan Kraus <stefan.kraus@fau.de>,1
+Vincent Wan <vincent.wan@linaro.org>,1
+Michael Zimmermann <sigmaepsilon92@gmail.com>,1
+Henrik Malvik Halvorsen <henrik.halvorsen@nordicsemi.no>,1
+Richard Osterloh <richard.osterloh@gmail.com>,1
+Arthur Crepin-Leblond <arthur.crepin@proglove.de>,1
+Christopher Métrailler <christopher.metrailler@nordicsemi.no>,1
+Georgij Cernysiov <g.cernysiov@elco-automation.de>,1
+Tobias Schlaepfer <scpf@zhaw.ch>,1
+Leandro Pereira <leandro@hardinfo.org>,1
+Thomas Stilwell <Thomas.Stilwell@nordicsemi.no>,1
+Ryan C Johnson <ryan.johnson@flex.com>,1
+Phil Erwin <erwin@lexmark.com>,1
+Alexander Mihajlovic <alexander.mihajlovic@endian.se>,1
+Tedd Ho-Jeong An <tedd.an@intel.com>,1
+Benjamin Valentin <benpicco@googlemail.com>,1
+Michael Hope <mlhx@google.com>,1
+Lucas Peixoto <lucaspeixotoac@gmail.com>,1
+Greg S. Woods <gwoods@lexmark.com>,1
+Daniel Egger <daniel@eggers-club.de>,1
+Harry Jiang <explora26@gmail.com>,1
+Benjamin Lindqvist <benjamin.lindqvist@endian.se>,1
+Anton Gerasimov <agerasimov@twilio.com>,1
+Loic Poulain <loic.poulain@linaro.org>,1
+Daniel Leung <daniel.leung@intel.com>,1
